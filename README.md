@@ -15,6 +15,6 @@ Esse é um projeto desenvolvido durante a sexta edição da Next Level Week, des
     - [x] Somente administradores podem cadastrar tags.
 
 - Cadastro de elogio
-    - [x] Somente um usuário autenticado pode cadastrar um elogio.
-    - [x] Não é possível cadastrar elogios para si mesmo.
-    - [x] Não é possível cadastrar elogios para usuários inválidos.
+    - [ ] Somente um usuário autenticado pode cadastrar um elogio.
+    - [ ] Não é possível cadastrar elogios para si mesmo.
+    - [ ] Não é possível cadastrar elogios para usuários inválidos.
